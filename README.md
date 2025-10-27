@@ -35,7 +35,5 @@ O Tobias IA é construído em **Python**, integrando bibliotecas modernas para I
 
 ## 🛠️ Instalação
 
-### 1. Clone o repositório:
-```bash
-git clone https://github.com/seu-usuario/tobias-ia.git
-cd tobias-ia
+Link Colab : https://colab.research.google.com/drive/1IQbep6leDNAddiwc_MMkkrVPeCp-awcN?usp=sharing
+

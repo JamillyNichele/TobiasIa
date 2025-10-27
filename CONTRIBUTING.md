@@ -14,7 +14,7 @@ Obrigado por considerar contribuir com o Tobias AI! Este documento fornece diret
 ### Reportando Bugs 🐛
 
 **Antes de reportar:**
-1. Verifique se o bug já foi reportado nas [Issues](https://github.com/seu-usuario/tobias-ai/issues)
+1. Verifique se o bug já foi reportado nas [Issues] https://github.com/JamillyNichele/TobiasIa
 2. Teste na versão mais recente
 3. Colete informações sobre o ambiente
 
@@ -86,7 +86,7 @@ Obrigado por considerar contribuir com o Tobias AI! Este documento fornece diret
 
 2. **Clone seu fork**
 ```bash
-git clone https://github.com/seu-usuario/tobias-ai.git
+git clone https://github.com/JamillyNichele/TobiasIas-ai.git
 cd tobias-ai
 ```
 
@@ -326,7 +326,7 @@ Contribuidores são listados em:
 
 ## ❓ Perguntas?
 
-- Abra uma [Discussion](https://github.com/seu-usuario/tobias-ai/discussions)
+- Abra uma [Discussion](https://github.com/JamillyNichele/TobiasIa/discussions)
 - Entre em contato: Jamillynichele@gmail.com
 
 ## 📜 Licença

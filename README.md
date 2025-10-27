@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Gemini_Generated_Image_5wbk6s5wbk6s5wbk.png" alt="Logo Tobias IA" width="180">
+<img width="1024" height="1024" alt="Gemini_Generated_Image_5wbk6s5wbk6s5wbk" src="https://github.com/user-attachments/assets/ed383476-1b8d-44fb-ad53-c78b92553c8b" />
 </p>
 
 <h1 align="center">Tobias IA – Transcritor Inteligente de Vídeos com IA Generativa</h1>
